@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.services{
+    /*background: linear-gradient(to right,rgb(97, 149, 250),rgb(153, 188, 244));*/
+    height:40vh;
+    width:100%;
+    text-align: center !important;
+    vertical-align: middle !important;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://th.bing.com/th/id/R.7ac961580a0c7ccd07fcf29dc1a9974c?rik=X%2fFIKT804%2bM%2fng&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.services h1{
+    vertical-align: middle !important;
+    color:white;
+    font-size: 50px;
+    font-weight: 900;
+    padding-top: 120px;
+}
+.card{
+    height:40vh;
+    margin: 10px;
+}
+.services-content{
+    margin-top: 50px;
+}
+.left-side p,.right-side p{
+    text-align:justify !important;
+    padding:50px;
+}
+.left-side h1, .right-side h1{
+    font-weight: 900;
+    text-align: center !important;
+    padding:15px;
+}
+.left-side,.right-side{
+    border:none;
+    margin:10px;
+    width:600px;
+    height:40vh;
+    margin: 10px auto;
+    background-color: rgba(180, 222, 242, 0.539);
+    font-family: 'Poppins';
+    transition:.2s ;
+}
+.left-side:hover,.right-side:hover{
+    border-top: 5px solid blue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.left-side p b{
+    font-weight: 900;
+}
+.first-para{
+    padding:0px;
+}
+@media screen and (max-width:900px){
+    .left-side h1,.right-side h1{
+        text-align:center !important;
+        font-weight: 900;
+    }
+}

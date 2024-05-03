@@ -1,0 +1,42 @@
+.facility-banner{
+    height:40vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url("https://th.bing.com/th/id/R.94173363c36d717cccb1c670f0ba5d67?rik=EDP6bNfml9Hyqw&pid=ImgRaw&r=0");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.facility-banner h1{
+    color:white;
+    font-weight: 900;
+    text-align: center !important;
+    padding-top: 120px;
+}
+.facility-1 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f7ff; 
+    color: #004080;
+  }
+  
+
+  .container1 {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .facility1 {
+    background-color: #d9ecff; 
+    padding: 20px;
+    margin: 10px;
+    flex: 1 1 300px;
+  }
+  .facility1 h2 {
+    margin-bottom: 10px;
+  }
+  .facility1 img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }

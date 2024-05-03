@@ -1,0 +1,71 @@
+.banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://th.bing.com/th/id/R.3863409363ca62089526ee73038f97f9?rik=soa5peHFnfh6KQ&pid=ImgRaw&r=0");
+    height:40vh;
+}
+.main-text h1{
+    padding-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+    color:white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.appointment-form{
+    width:50%;
+    margin-top: 50px;
+    padding:100px 150px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: 600;
+    color:black;
+    background-color: rgba(180, 222, 242, 0.539);
+}
+.appointment-form .form-group .btn{
+    width:220px;
+}
+.contact-form .form-control{
+    width:270px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:5px 20px;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+.form-group a{
+    width:auto;
+    text-align: center;
+}
+@media screen and (max-width:900px){
+    *{
+        margin: 0;
+        padding:0;
+        overflow-x: hidden;
+    }
+    .banner{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://th.bing.com/th/id/R.3863409363ca62089526ee73038f97f9?rik=soa5peHFnfh6KQ&pid=ImgRaw&r=0");
+        height:60vh;
+    }
+    .appointment-form,.contact-form{
+        width:90%;
+        padding:50px;
+        margin:50px 20px;
+        border-radius: 50px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        background-color: rgba(180, 222, 242, 0.539);
+        background-size: cover;
+        background-repeat: no-repeat;
+        font-weight: 600;
+        color:black;
+    }   
+    .appointment-form .form-group .btn{
+        width:auto;
+    }
+    .form-control{
+        border: 1px solid black;
+    }
+}
