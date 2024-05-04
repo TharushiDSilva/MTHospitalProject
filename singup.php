@@ -79,7 +79,9 @@
                 $sql = "INSERT INTO unmpw (email, pw) VALUES ('{$email}','{$password}')";
                 
                 if ($conn->query($sql)==true)  {
-                    echo "<script>alert('record added')</script>";
+                    echo "<script>alert('record added');
+                    location.replace('login.php');
+                    </script>";
                     
                 }else{
                     echo "<script>alert('record added')</script>";
