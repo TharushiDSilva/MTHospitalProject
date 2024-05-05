@@ -84,7 +84,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="container-fluid nav-section">
         <div class="row">
             <nav class="navbar navbar-expand-lg">
-              <a class="navbar-brand" href="index.html">MT Hospital</a>
+              <a class="navbar-brand" href="index.php">MT Hospital</a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
