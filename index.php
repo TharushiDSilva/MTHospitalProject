@@ -192,19 +192,19 @@
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="https://thumbs.dreamstime.com/b/hospital-ward-beds-medical-equipment-interior-new-empty-room-75224097.jpg" alt="First slide">
+            <img class="d-block w-100" src="https://th.bing.com/th/id/R.0f6912e682a75c349083ca1ecc1cda02?rik=auAkPUtag%2f7Pbg&pid=ImgRaw&r=0" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://media.istockphoto.com/id/1216959568/photo/hospital-bed-with-medical-equipment-in-hospital-room.jpg?s=612x612&w=0&k=20&c=y8lN8Ij4hDdVdBjkIWbXzCA3QzcTkJ7ND9eOZOeTo4E=" alt="Second slide">
+            <img class="d-block w-100" src="https://th.bing.com/th/id/R.b3c00ff2bb8f34cf569fe2e58515ac24?rik=2Jsstv5uAKYSeA&pid=ImgRaw&r=0" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://thumbs.dreamstime.com/b/pharmacy-interior-blurred-background-58416047.jpg" alt="Third slide">
+            <img class="d-block w-100" src="https://th.bing.com/th/id/R.b6c2f0d6af53ed8e13670872a3fce13f?rik=ecLAfx55q3TeHQ&pid=ImgRaw&r=0" alt="Third slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://www.dailyrounds.org/blog/wp-content/uploads/2019/09/emergency.jpg" alt="Fourth slide">
+            <img class="d-block w-100" src="https://wallpaperaccess.com/full/422429.jpg" alt="Fourth slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://www.astron.international/blog/wp-content/uploads/2018/10/Healthcare-facility.jpg" alt="Fifth slide">
+            <img class="d-block w-100" src="https://th.bing.com/th/id/R.962323110765d21737a9eeb84b26952a?rik=E9MU%2f2H%2bbY4u1w&riu=http%3a%2f%2fnithyahospital.com%2fjb-nithyahospital%2fuploads%2f2018%2f08%2fqliwnl.jpg&ehk=m36K%2byjrCFW1LQ9i6UJiljg7YgpZiy1MndsYRIzOcb4%3d&risl=&pid=ImgRaw&r=0" alt="Fifth slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
