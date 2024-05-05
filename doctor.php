@@ -72,19 +72,19 @@
                 <div class="col-sm-3">
                   <div class="card d-block w-100 text-center">
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFnI3l9al0-KU3pSrkENgygeb1bG90tKmb3MApmd71oACdZCZ2MbFHoTk2S1r8QVLjlI&usqp=CAU" alt="" class="card-image">
-                    <div class="card-title">Dr. Yasitha Bandaragodage</div>
+                    <div class="card-title">Dr. Y Bandaragodage</div>
                   </div>
                 </div>
                 <div class="col-sm-3">
                   <div class="card d-block w-100 text-center">
                     <img src="https://doctoroncare.org/system/storage/app/public/uploads/429111798-indian-doctor-woman-23073235%20(2).jpg" alt="" class="card-image">
-                    <div class="card-title">Dr. Priyangika Jayasinghe</div>
+                    <div class="card-title">Dr. P Jayasinghe</div>
                   </div>
                 </div>
                 <div class="col-sm-3">
                   <div class="card d-block w-100 text-center">
                     <img src="https://media.licdn.com/dms/image/C4D03AQE50fIz9wbwOg/profile-displayphoto-shrink_400_400/0/1631453401208?e=1720656000&v=beta&t=C4AQX1J374riECqIgZtxHSFYhhjwKfs_wo7uHJlYhqg" alt="" class="card-image">
-                    <div class="card-title">Dr.Kalumini Weheragoda</div>
+                    <div class="card-title">Dr. K Weheragoda</div>
                   </div>
                 </div>
               </div>
@@ -150,7 +150,7 @@
               <div class="col-sm-3">
                 <div class="card d-block w-100 text-center">
                   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8Dm0K7TF2oa7y-xKdm2eRgNEFpx8arisZiU4ngs189aov6moLPxGDtUKaqAHJbt6GyU&usqp=CAU" alt="" class="card-image">
-                  <div class="card-title">Dr.Raveena Dissanayaka</div>
+                  <div class="card-title">Dr. R Dissanayaka</div>
                 </div>
               </div>
             </div>
