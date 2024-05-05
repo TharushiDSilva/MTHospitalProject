@@ -1,15 +1,15 @@
 /*---------------------Banner Section Styling------------------------*/
 .banner-section{
-    background: linear-gradient(to right,rgb(97, 149, 250),rgb(153, 188, 244));
+    background-color: linear-gradient(to right, rgb(186 186 186), rgb(37 119 254));
     height:75vh;
 }
 .banner-image{
     height:400px;
-    width:600px;
+    width:650px;
     transform: translateY(19%);
     border-radius: 50px 20px 50px 20px;
-    animation:banimganimation 3s;
-    animation-delay: 1s;
+    animation:banimganimation 2s;
+    animation-delay: 0.5s;
 }
 .banner-text{
     transform: translateY(60%);
@@ -483,8 +483,10 @@ display: none;
     top:237%;
 }
 .carousel{
-    margin-top: 50px;
+    margin: 150px;
+
 }
+
 .carousel-item img{
     height:600px;
     width:100px;
@@ -519,7 +521,7 @@ display: none;
     .carousel-item img{
         height:200px;
         width:70px;
-        padding:auto 0px;
+        padding: 300px;
     }
 }
 /*--------------------------------Contact Us section--------------------------------*/
@@ -553,25 +555,26 @@ display: none;
     left:67%;
 }
 .contact-form{
-    width:50%;
-    padding:50px;
-    margin-top: 50px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border-radius: 30px;
-    background-color: rgba(54, 157, 247, 0.187);
-    color:white;
+    width:auto;   
+    color: aliceblue;
+    margin: 100px;
+    
+    
     font-weight: 500;
 }
 .contact-form .form-control{
-    width:270px;
+    width:100%;
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
     padding:5px 20px;
+    background-color: rgba(165, 233, 255, 0.45);
+    border-color: cornsilk;
 }
 
 .form-group{
     margin-bottom: 9px;
+    
 }
 .form-group a{
     width:130px;
@@ -607,19 +610,16 @@ display: none;
         text-align: center !important;
     }
     .contact-form{
-        width:90%;
+        width:100%;
         margin-left: auto;
         margin-right: auto;
         padding:50px;
         margin-top: 50px;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        border-radius: 30px;
-        background-color: rgba(54, 157, 247, 0.187);
-        color:white;
+       
         font-weight: 500;
     }
     .contact-form .form-control{
-        width:250px;
+        width:90%;
         margin-top: 10px;
         margin-left: 0px;
         margin-right: 0px;
