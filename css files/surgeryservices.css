@@ -1,0 +1,120 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    color: #fff; 
+}
+
+.services{
+    /*background: linear-gradient(to right,rgb(97, 149, 250),rgb(153, 188, 244));*/
+    height:40vh;
+    width:100%;
+    text-align: center !important;
+    vertical-align: middle !important;
+    background-image: linear-gradient(rgba(0, 8, 93, 0.8), rgba(0, 11, 57, 0.8)), url("https://th.bing.com/th/id/R.7ac961580a0c7ccd07fcf29dc1a9974c?rik=X%2fFIKT804%2bM%2fng&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.services h1{
+    vertical-align: middle !important;
+    color:rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: 900;
+    padding-top: 120px;
+}
+.card{
+    height:40vh;
+    margin: 10px;
+}
+.services-content{
+    margin-top: 50px;
+}
+
+.surgery-prices {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.heart-surgery {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/R.8971518cd0a4aa3bb26c13a1af169eeb?rik=z5Ud3e7lWDnGCw&riu=http%3a%2f%2fwww.astanatimes.com%2fwp-content%2fuploads%2f2015%2f04%2fdoctor_physician_surgery.jpg&ehk=wCeOKb5gYhln%2fYTHmimdlIym5G%2bJlbeA6HlfsCdwiYA%3d&risl=1&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; 
+}
+
+.kidney-surgery {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/OIP.nD-Q7WA96K0rA2H3CGhpCgHaFo?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; 
+}
+
+.lung-surgery {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/R.7bfcae62f61d0d6622966b4ae81f36c6?rik=LZK0vG9GuZMPLg&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; 
+}
+
+.brain-surgery {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/OIP.qamrxWL2YVPsrIeXWQIY7AHaEK?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; 
+}
+
+.orthopedic-surgery {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/R.3f80974864ba9f2acd139f26fd09baaa?rik=9o9%2byW0Zn9K3NA&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; 
+}
+
+.plastic-surgery {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/R.8df88268f712744d46379c9fc2015c62?rik=wv4rvw46%2fOZBsA&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; 
+}
+
+
+
+.services {
+    background: linear-gradient(rgba(0, 8, 93, 0.8), rgba(0, 11, 57, 0.8)), url("https://img.freepik.com/premium-photo/medical-professional-hospital-emergency-room-surgery-paramedic-doctors-working_116317-24240.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff; 
+}
+
+
+.card {
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: box-shadow 0.3s ease; 
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
+@media screen and (max-width:900px){
+    .left-side h1,.right-side h1{
+        text-align:center !important;
+        font-weight: 900;
+    }
+}
