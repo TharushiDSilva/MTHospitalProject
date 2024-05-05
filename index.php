@@ -113,7 +113,7 @@
         </div>
       </div>
       <div class="col-sm-6">
-        <img src="images/hospital1.jpg" alt="Banner Image" class="banner-image">
+        <img src="https://hccs.lk/wp-content/uploads/2015/12/DSC_2.jpg" alt="Banner Image" class="banner-image">
       </div>
     </div>
   </div>
@@ -181,7 +181,7 @@
         </div>
       </div>
 
-      <a href="services.html" class="show-more btn btn-primary text-center">Show all services &nbsp; <i class="fa-sharp fa-solid fa-circle-arrow-right"></i></a>
+      <a href="services.php" class="show-more btn btn-primary text-center">Show all services &nbsp; <i class="fa-sharp fa-solid fa-circle-arrow-right"></i></a>
     </div>
   </div>
 
