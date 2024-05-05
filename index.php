@@ -30,7 +30,7 @@
   <div class="container-fluid nav-section">
     <div class="row">
       <nav class="navbar navbar-expand-lg">
-        <a class="navbar-brand" href="index.html">MT Hospital</a>
+        <a class="navbar-brand" href="index.php">MT Hospital</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -102,14 +102,14 @@
 
   <!--------------------Banner Section----------------------->
 
-  <div class="container-fluid banner-section">
+  <div class="container-fluid banner-section"style="background: linear-gradient(to right, rgb(186 186 186), rgb(37 119 254));">
     <div class="row">
       <div class="col-sm-6">
         <div class="banner-text text-center">
           <h1>Welcome to<br>MT Hospital</h1>
           <h3>The Largest health care center</h3>
           <a href="#" class="btn btn-primary banbtn">Join with Us</a>
-          <a href="appointment.php" class="btn btn-primary banbtn">Make Appointment</a>
+          <a href="#" class="btn btn-primary banbtn">Make Appointment</a>
         </div>
       </div>
       <div class="col-sm-6">
@@ -192,19 +192,19 @@
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="https://th.bing.com/th/id/R.0f6912e682a75c349083ca1ecc1cda02?rik=auAkPUtag%2f7Pbg&pid=ImgRaw&r=0" alt="First slide">
+            <img class="d-block w-100" src="https://www.amnhealthcare.com/siteassets/amn-insights/news-and-features/pharmacists_role.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://th.bing.com/th/id/R.b3c00ff2bb8f34cf569fe2e58515ac24?rik=2Jsstv5uAKYSeA&pid=ImgRaw&r=0" alt="Second slide">
+            <img class="d-block w-100" src="https://assets-global.website-files.com/615de80c999862bf8553eb3c/618a974989715854413b7a58_shutterstock_156022655-EDIT.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://th.bing.com/th/id/R.b6c2f0d6af53ed8e13670872a3fce13f?rik=ecLAfx55q3TeHQ&pid=ImgRaw&r=0" alt="Third slide">
+            <img class="d-block w-100" src="https://www.healthywomen.org/media-library/what-can-your-pharmacist-do-for-you.jpg?id=32867886&width=1200&height=800&quality=85&coordinates=0%2C0%2C0%2C1" alt="Third slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://wallpaperaccess.com/full/422429.jpg" alt="Fourth slide">
+            <img class="d-block w-100" src="https://vir.com.vn/stores/news_dataimages/2022/092022/14/08/hospitals-bemoan-autonomy-trial-flop-20220914084418.jpg?rt=20220914084421" alt="Fourth slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="https://th.bing.com/th/id/R.962323110765d21737a9eeb84b26952a?rik=E9MU%2f2H%2bbY4u1w&riu=http%3a%2f%2fnithyahospital.com%2fjb-nithyahospital%2fuploads%2f2018%2f08%2fqliwnl.jpg&ehk=m36K%2byjrCFW1LQ9i6UJiljg7YgpZiy1MndsYRIzOcb4%3d&risl=&pid=ImgRaw&r=0" alt="Fifth slide">
+            <img class="d-block w-100" src="https://www.intellis.io/hubfs/Healthcare-technology.jpg#keepProtocol" alt="Fifth slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -216,7 +216,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-      <a href="facility.php" class="show-more btn btn-primary text-center">Show all Facilities &nbsp; <i class="fa-sharp fa-solid fa-circle-arrow-right"></i></a>
+      <a href="facility.html" class="show-more btn btn-primary text-center">Show all Facilities &nbsp; <i class="fa-sharp fa-solid fa-circle-arrow-right"></i></a>
     </div>
   </div>
 
@@ -282,7 +282,7 @@
 
   <div class="chat_box">
     <div class="conv-form-wrapper">
-      <form action="index.html" method="POST" class="hidden">
+      <form action="index.php" method="POST" class="hidden">
         <select name="patient" data-conv-question="Welcome To MT Hospital... Do you need any help?">
           <option value="yes">Yes</option>
           <option value="no">No..</option>
