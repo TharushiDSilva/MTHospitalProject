@@ -60,31 +60,31 @@
 
     <div class="container services-content">
       <div class="row">
-        <div class="col-md-5 left-side">
+        <div class="col-md-5 left-side"style="background-image:linear-gradient(rgba(68, 136, 205, 0.7), rgba(255, 250, 250, 0.8)), url('https://medlineplus.gov/images/Surgery_share.jpg');">
           <h1 class="text-start">Surgery Services</h1>
           <p>As a hospital we ranked as leadiing hospital in this area for surgeries. You can do any kind of surgery in our hospital. <b>Heart Surgeries, Kidney Sergeries, Lung Surgeries and dental surgeries</b> are some of them</p>
         </div>
-        <div class="col-md-5 right-side">
+        <div class="col-md-5 right-side"style="background-image:linear-gradient(rgba(72, 165, 177, 0.7), rgba(255, 250, 250, 0.8)), url('https://media.licdn.com/dms/image/C4D12AQHuj1meQ4Iw0g/article-cover_image-shrink_720_1280/0/1610576002962?e=2147483647&v=beta&t=W7oPak56IVA9NP6Cf_CDX852yW9O8doFZUJJ7e_0Cms');">
           <h1 class="text-start">Emergency Care Services</h1>
           <p class="first-para">In our hospital you can find emergency care unit and a accident ward. We are open for your service in 24 Hours in 7 days. So, you can earn our service if you are necessary in any Time.</p>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-5 left-side">
+        <div class="col-md-5 left-side" style="background-image:linear-gradient(rgba(99, 170, 194, 0.8), rgba(255, 250, 250, 0.9)), url('https://img.indiafilings.com/learn/wp-content/uploads/2018/08/12005652/GST-on-Ambulance-Services.jpg');">
           <h1 class="text-start">Ambulance Services</h1>
           <p>As a hospital we are always thinking about human's health. SO, we started a free ambulance service in this area. You can contact ambulance service by 2526 or contacting our hospital.</p>
         </div>
-        <div class="col-md-5 right-side">
+        <div class="col-md-5 right-side"style="background-image:linear-gradient(rgba(151, 209, 240, 0.7), rgba(255, 250, 250, 0.8)), url('https://www.clinicone.com.np/wp-content/uploads/2020/08/Untitled-design.png');">
           <h1 class="text-start">E-Channeling Services</h1>
           <p>Most of people have problem with contacting and channeling doctors. So, we create a E-Channeling platform for our patients and they can contact their doctor using distance health concept.</p>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-5 left-side">
+        <div class="col-md-5 left-side"style="background-image:linear-gradient(rgba(68, 136, 205, 0.7), rgba(255, 250, 250, 0.8)), url('https://indoreinstitute.com/wp-content/uploads/2021/09/pharmaceutical-industry.jpg');">
           <h1 class="text-start">Pharmacy Services</h1>
           <p>As a health center we had the largest pharmacy in the area. You can by any kind of drug or dozes from our pharmacy services</p>
         </div>
-        <div class="col-md-5 right-side">
+        <div class="col-md-5 right-side"style="background-image:linear-gradient(rgba(68, 136, 205, 0.7), rgba(255, 250, 250, 0.8)), url('https://www.swaconhospital.com/wp-content/uploads/2019/09/34-5-reasons-why-you-need-a-regular-checkup-fb-thumb.jpg');">
           <h1 class="text-start">Checkup and Test Services</h1>
           <p>You can do any kind of testings from our hospital. ECG, EEG, Blood testings, Urine Testings are some of them. And also full body checkups, eye checkups, ear checkups and all the checkups are available in our hospital. And all the type of scans you can do from our hospital.</p>
         </div>
