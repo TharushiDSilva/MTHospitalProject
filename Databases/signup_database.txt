@@ -1,0 +1,7 @@
+create database usr
+use usr
+create table unmpw
+(
+email varchar(200) primary key,
+pw varchar(100)
+)
