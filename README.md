@@ -1,1 +1,3 @@
-A website for a hospital 
+A website for a hospital that supplies services such as surgery services, ambulance services, pharmacy services, and e-channeling services. As an e-commerece site prices and packages for different kinds of surgeries are mentioned in the website. An interactive chat-box, slideshow with images, google maps location, and sign up are added features as an e-commerce site. For the back-end user can sign-in by using their registered email and passwords. Users who did not register before can sign up by giving an email with a suitable password. To store all that user data a MySql database has been used. After a succesfull sign-in users' email is displayed from the corner.
+
+Workload Matrix as follows.
