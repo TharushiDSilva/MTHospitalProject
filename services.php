@@ -60,10 +60,10 @@
 
     <div class="container services-content">
       <div class="row">
-        <div class="col-md-5 left-side"style="background-image:linear-gradient(rgba(68, 136, 205, 0.7), rgba(255, 250, 250, 0.8)), url('https://medlineplus.gov/images/Surgery_share.jpg');">
+      <a href="surgeryservices.php"  class="col-md-5 left-side"  style="background-image:linear-gradient(rgba(68, 136, 205, 0.7), rgba(255, 250, 250, 0.8)), url('https://medlineplus.gov/images/Surgery_share.jpg');">
           <h1 class="text-start">Surgery Services</h1>
           <p>As a hospital we ranked as leadiing hospital in this area for surgeries. You can do any kind of surgery in our hospital. <b>Heart Surgeries, Kidney Sergeries, Lung Surgeries and dental surgeries</b> are some of them</p>
-        </div>
+      </a>
         <div class="col-md-5 right-side"style="background-image:linear-gradient(rgba(72, 165, 177, 0.7), rgba(255, 250, 250, 0.8)), url('https://media.licdn.com/dms/image/C4D12AQHuj1meQ4Iw0g/article-cover_image-shrink_720_1280/0/1610576002962?e=2147483647&v=beta&t=W7oPak56IVA9NP6Cf_CDX852yW9O8doFZUJJ7e_0Cms');">
           <h1 class="text-start">Emergency Care Services</h1>
           <p class="first-para">In our hospital you can find emergency care unit and a accident ward. We are open for your service in 24 Hours in 7 days. So, you can earn our service if you are necessary in any Time.</p>
